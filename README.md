@@ -3,8 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=misramedenioglu&label=Profile%20views&color=0e75b6&style=flat" alt="misramedenioglu" /> </p>
 
-> **Not**: GitHub hesabımda yaşadığım bazı teknik sorunlar nedeniyle eski hesabımı kapatıp yeni bir hesap oluşturmak zorunda kaldım. Bu nedenle projelerimin geçmiş commit bilgileri yeni hesabımda görünmeyebilir. Önceki projelerimi buraya tekrar yükleyeceğim. Anlayışınız için teşekkür ederim!
-
+>**Note**: Due to some technical problems with my GitHub account, I had to close my old account and create a new account. For this reason, past commit information of my projects may not appear in my new account. I will re-upload my previous projects here. Thank you for your understanding!
 
 
 - 🌱 I’m currently learning **React Native**
