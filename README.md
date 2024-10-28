@@ -3,6 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=misramedenioglu&label=Profile%20views&color=0e75b6&style=flat" alt="misramedenioglu" /> </p>
 
+> **Not**: GitHub hesabımda yaşadığım bazı teknik sorunlar nedeniyle eski hesabımı kapatıp yeni bir hesap oluşturmak zorunda kaldım. Bu nedenle projelerimin geçmiş commit bilgileri yeni hesabımda görünmeyebilir. Anlayışınız için teşekkür ederim!
+
+
 - 🌱 I’m currently learning **React Native**
 
 - 💬 Ask me about **frontend development, design principles, or my projects!**
